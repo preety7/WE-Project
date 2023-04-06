@@ -1,0 +1,63 @@
+body {
+	background: rgb(244,164,96);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#C0C0C0',GradientType=0 );
+
+}
+.left{
+	text-align: left;
+}
+.center {
+	text-align: center;
+}
+.shade{
+	background-color: white;
+	border: 1px solid black;
+	border-radius: 25px;
+	width: 200;
+	height: 25;
+}
+a{
+	font-size: 20px;
+}
+.bigger {
+	font-size:100%;
+}
+.base {
+ border: 1px solid #000;
+ width: 10em;
+ padding: 5px;
+ list-style-position: inside;
+ }
+ ul {
+    width: 70%;
+    margin: auto;
+}
+.size{
+	height: auto;
+	width: auto;
+}
+
+.textsize{
+	font-size: 20px;
+}
+.mleft{
+	float: left;
+	display: inline-block;
+}
+.mcenter{
+	display: inline-block;
+	float: middle;
+}
+.mright{
+	float: right;
+	display: inline-block;
+}
+.resize{
+	height: 200px;
+	width: 200px;
+}
+.sizeimg{
+background-color: white;
+border: 1px solid black;
+border-radius: 25px;
+}
